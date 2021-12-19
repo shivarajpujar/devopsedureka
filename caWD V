@@ -1,0 +1,22 @@
+[33mcommit 6ca7d6219d7c00820c8377301790d2fdaa714f9c[m
+Author: shiv <pshivaraj4411@gmail.com>
+Date:   Sun Dec 19 10:15:50 2021 +0000
+
+    added 2.java
+
+[1mdiff --git a/1.java b/1.java[m
+[1mindex e69de29..7b0af35 100644[m
+[1m--- a/1.java[m
+[1m+++ b/1.java[m
+[36m@@ -0,0 +1 @@[m
+[32m+[m[32madding new changes[m
+
+[33mcommit 4f216882d8436d66a6a9a5974ed26b5a14cd64b7[m
+Author: EC2 Default User <ec2-user@ip-172-31-39-54.ap-south-1.compute.internal>
+Date:   Sun Dec 19 08:05:10 2021 +0000
+
+    added 1.java
+
+[1mdiff --git a/1.java b/1.java[m
+[1mnew file mode 100644[m
+[1mindex 0000000..e69de29[m
